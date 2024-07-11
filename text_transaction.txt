@@ -1,0 +1,20 @@
+Sales,150,2024-12-03,Income
+Entertainment,20000,2024-12-01,Expense
+Entertainment,7500,2024-12-02,Expense
+Entertainment,1500,2024-12-03,Expense
+Sales,20000,2024-12-04,Income
+Groceries,8000,2024-12-05,Expense
+Groceries,750,2024-12-06,Expense
+Sales,55000,2024-12-07,Income
+Rent Income,500,2024-12-08,Income
+Rent Income,1500,2024-12-09,Income
+Travel,200,2024-12-10,Expense
+Travel,400,2024-12-11,Expense
+Travel,300,2024-12-15,Expense
+Entertainment,250,2025-11-03,expense
+royalty,15000,2024-12-03,income
+royalty,65000,2023-11-03,income
+royalty,45000,2022-12-03,income
+royalty,30000,2020-12-03,income
+Sales,40000,2020-12-04,Income
+Motor Vehicles,5000,2024-01-01,Expense
