@@ -15,6 +15,10 @@
 <h2> Test Plans </h2>
 <p> To ensure reliability and performance, I've developed some test plans. These cover a variety of use cases and scenarios, helping to guarantee that the Personal Finance Tracker operates smoothly and accurately.
 
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
 <h2> Getting Started</h2>
 Ready to take control of your finances? Get started with this Personal Finance Tracker today! Check out the documentation for detailed installation instructions and usage guidelines.
 
